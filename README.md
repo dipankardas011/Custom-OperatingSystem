@@ -46,3 +46,6 @@ Alternatively, you should be able to load the operating system on a USB drive an
 
 Remove the build-evironment image:
  - `docker rmi myos-buildenv -f`
+
+## Results
+![OS running](RUN.png)
